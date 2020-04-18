@@ -1,2 +1,2 @@
-# ApplianceCheckout
+# Group Project 1 for ICS 372
 This group project was to analyze, design, and implement a system using object-oriented principles. The system concerns an application for a company that sells cloth washers, cloth dryers, kitchen ranges, dish washers, refrigerators, and furnaces. Each appliance has a brand name and a model name. The company stocks multiple brands of different models and keeps track of them. It also keeps track of its customers (name and phone number). Customers can order appliances. If the required quantity is not on stock, the request is put on back order and when enough quantity is on stock, the sale is completed. (Back order is not possible for furnaces.
